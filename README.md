@@ -4,7 +4,7 @@ Criar modelos do tipo **Enconder-Decoder** capazes de traduzir uma frase do fran
 
 ## Modelos
 
-### LSTM 
+### LSTM
 
 ### LSTM com Atenção (Produto escalar, Bahdanau e Luong)
 
